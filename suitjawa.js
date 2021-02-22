@@ -31,5 +31,5 @@ while( tanya ){
 
     tanya = confirm('lagi?');
 }
-
+// tampilkan terima kasih
 alert('Terima Kasih sudah bermain');
